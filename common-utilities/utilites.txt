@@ -1,0 +1,1 @@
+This folder will contain all kind of common features , functionalities which can be use by any architectures with in technology.
